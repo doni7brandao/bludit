@@ -59,7 +59,7 @@ Patrocinadores
 --------
 Torne-se um **Patrocinador** e apoie o Bludit com uma contribuição mensal para nos ajudar a continuar o desenvolvimento.
 
-[![Torne-se um Patrocinador](https://img.shields.io/badge/Become%20a%20Sponsor--green.svg)](https://www.patreon.com/bePatron?c=921115&rid=2458860)
+[![Torne-se um Patrocinador](https://img.shields.io/badge/Torne-se%20um%20Patrocinador--green.svg)](https://www.patreon.com/bePatron?c=921115&rid=2458860)
 
 - <a href="https://www.patreon.com/clickwork" target="_blank">Clickwork</a>
 - <a href="https://www.patreon.com/user/creators?u=10331784" target="_blank">KreativMind</a>

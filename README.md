@@ -1,65 +1,65 @@
 [Bludit](https://www.bludit.com/)
 ================================
-**Simple**, **Fast** and **Flexible** CMS
+CMS **Simples**, **Rápido** e **Flexível**
 
-Bludit is a web application to build your own **website** or **blog** in seconds, it's completely **free and open source**. Bludit uses files in JSON format to store the content, you don't need to install or configure a database. You only need a web server with PHP support.
+O Bludit é um aplicativo da web para criar seu próprio **site** ou **blog** em segundos, é **totalmente gratuito e de código aberto** . O Bludit usa arquivos no formato JSON para armazenar o conteúdo, você não precisa instalar ou configurar um banco de dados. Você só precisa de um servidor web com suporte a PHP.
 
-Bludit is a **Flat-File** CMS.
+Bludit é um CMS **Flat-File**, ou seja, de **Arquivo Simples**.
 
-Bludit supports **Markdown** and **HTML code** for the content.
+Bludit suporta **Markdown** e **HTML code** para o conteúdo.
 
 - [Plugins](https://plugins.bludit.com)
-- [Themes](https://themes.bludit.com)
-- [Documentation](https://docs.bludit.com)
-- Help and Support [Forum](https://forum.bludit.org) and [Chat](https://gitter.im/bludit/support)
+- [Temas](https://themes.bludit.com)
+- [Documentação](https://docs.bludit.com)
+- Fórum de Ajuda e Suporte [Forum](https://forum.bludit.org) e [Chat](https://gitter.im/bludit/support)
 
 [![Bludit PRO](https://img.shields.io/badge/Bludit-PRO-blue.svg)](https://pro.bludit.com/)
 
-Social Networks
+Redes Sociais
 ---------------
 
 - [Twitter](https://twitter.com/bludit)
 - [Facebook](https://www.facebook.com/bluditcms)
 - [Youtube](https://www.youtube.com/channel/UCuLu0Z_CHBsTiYTDz129x9Q?view_as=subscriber)
 
-Requirements
+Requisitos
 ------------
 
-You just need a web server with PHP support.
+Você só precisa de um servidor web com suporte a PHP.
 
-- PHP v5.6 or higher.
-- PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
-- PHP [gd](http://php.net/manual/en/book.image.php) module for image processing.
-- PHP [dom](http://php.net/manual/en/book.dom.php) module for DOM manipulation.
-- PHP [json](http://php.net/manual/en/book.json.php) module for JSON manipulation.
-- Supported web servers:
-   * Bludit supports almost every web server
-   * PHP Built-in web server (`php -S localhost:8000`)
+- PHP v5.6 ou superior.
+- Módulo PHP [mbstring](http://php.net/manual/en/book.mbstring.php) para suporte completo a UTF-8.
+- Módulo PHP [gd](http://php.net/manual/en/book.image.php) para processamento de imagens.
+- Módulo PHP [dom](http://php.net/manual/en/book.dom.php) para manipulação de DOM.
+- Módulo PHP [json](http://php.net/manual/en/book.json.php) para manipulação JSON.
+- Servidores Web suportados:
+   * Bludit suporta quase todos os servidores web
+   * Servidor Web com PHP embutido (`php -S localhost:8000`)
 
-Installation Guide
+Guia de Instalação
 ------------------
 
-1. Download the latest version from the official page. [Bludit.com](https://www.bludit.com)
-2. Extract the zip file into a directory like `bludit`.
-3. Upload the directory `bludit` to your web server or hosting.
-4. Visit your domain https://example.com/bludit/
-5. Follow the Bludit Installer to configure the website.
+1. Baixe a última versão da página oficial. [Bludit.com](https://www.bludit.com)
+2. Extraia o arquivo zip em um diretório como `bludit`.
+3. Faça o upload do diretório `bludit` para seu servidor da web ou hospedagem.
+4. Visite seu domínio https://example.com/bludit/
+5. Siga o Instalador do Bludit para configurar o site.
 
-Docker Image
-------------
-Bludit provides an official Docker image.
+Imagem do Docker
+-----------------
+O Bludit fornece uma imagem oficial do Docker.
 - https://hub.docker.com/r/bludit/docker/
 
-Backers
--------
-Become a **Backer** and support Bludit with a monthly contribution to help us continue development.
-- [Become a Backer](https://www.patreon.com/bePatron?c=921115&rid=2458859)
+Apoiadores
+----------
+Torne-se um **Apoiador** e apoie o Bludit com uma contribuição mensal para nos ajudar a continuar o desenvolvimento.
+- [Torne-se um Apoiador](https://www.patreon.com/bePatron?c=921115&rid=2458859)
 
-Sponsors
+Patrocinadores
 --------
-Become a **Sponsor** and support Bludit with a monthly contribution to help us continue development.
+Torne-se um **Patrocinador** e apoie o Bludit com uma contribuição mensal para nos ajudar a continuar o desenvolvimento.
 
-[![Become a Sponsor](https://img.shields.io/badge/Become%20a%20Sponsor--green.svg)](https://www.patreon.com/bePatron?c=921115&rid=2458860)
+[![Torne-se um Patrocinador](https://img.shields.io/badge/Become%20a%20Sponsor--green.svg)](https://www.patreon.com/bePatron?c=921115&rid=2458860)
 
 - <a href="https://www.patreon.com/clickwork" target="_blank">Clickwork</a>
 - <a href="https://www.patreon.com/user/creators?u=10331784" target="_blank">KreativMind</a>
@@ -67,6 +67,6 @@ Become a **Sponsor** and support Bludit with a monthly contribution to help us c
 - <a href="https://www.patreon.com/user/creators?u=12261033" target="_blank">Jan Rippl</a>
 - <a href="https://www.patreon.com/user/creators?u=9828204" target="_blank">Wesleigh Walker</a>
 
-License
+Licença
 -------
-Bludit is open source software licensed under the [MIT license](https://tldrlegal.com/license/mit-license).
+O Bludit é um software de código aberto licenciado sob a [Licença MIT](https://tldrlegal.com/license/mit-license).
